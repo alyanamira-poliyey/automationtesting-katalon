@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chat</name>
+   <tag></tag>
+   <elementGuidId>179b3719-fa39-4297-a482-5ec291a51c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = 'Chat']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-text ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;Chat&quot;] .nav-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Chat&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9893ac4b-c500-434e-98e0-e105f1d18972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>34c1adc0-1a1e-45e4-87fa-e21f3cf203f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chat</value>
+      <webElementGuid>7626faaa-6b5b-48d2-a907-33d31bad83b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-05e393ac073046c613731fe154b64b9f</value>
+      <webElementGuid>02061afa-2501-4a30-aa65-dcb0af3594d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = 'Chat']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-text ')]</value>
+      <webElementGuid>b5df7e5e-d9cd-4655-9b9c-e8ba80bc0a62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = 'Chat']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-text ')]</value>
+      <webElementGuid>1957c67c-91ea-4dae-870d-d5ecef21de5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chat' or . = 'Chat')]</value>
+      <webElementGuid>c82ab0f3-43bf-4dab-b32f-7d90d203e463</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

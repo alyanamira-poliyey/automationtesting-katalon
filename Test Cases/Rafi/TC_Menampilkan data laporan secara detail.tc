@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Menampilkan data laporan secara detail</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E ALYA NAMIRATUZ ZAHRA</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E ALYA NAMIRATUZ ZAHRA</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>f776b997-75ec-493f-921e-d311622243d7</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>f776b997-75ec-493f-921e-d311622243d7</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00a29891-8787-456a-a46f-496481c90425</testCaseGuid>
+</TestCaseEntity>

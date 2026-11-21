@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kontak</name>
+   <tag></tag>
+   <elementGuidId>86490743-1a93-4258-9b74-42c47fe0fcd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'li') and (position() = 6)]//*[@href = '#contact']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-child(6) [href=&quot;\#contact&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#navmenu >> internal:role=link[name=&quot;Kontak&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1065391d-aa4a-4993-b728-d9874cd13c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#contact</value>
+      <webElementGuid>df794f8e-1bd4-4192-965b-25904aa5424c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kontak</value>
+      <webElementGuid>8223a351-81e5-4ecd-9097-89d157975132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1d84dbbde2a4bccbe7552300c50d9001</value>
+      <webElementGuid>a1da38b0-a6ca-48d7-a018-bd4dbe029832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'li') and (position() = 6)]//*[@href = '#contact']</value>
+      <webElementGuid>2f288300-f20d-4c80-bb74-259b1fdd4c94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'li') and (position() = 6)]//*[@href = '#contact']</value>
+      <webElementGuid>87d8e20b-4d6f-452c-bd38-6c5c60aa9e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#contact' and (text() = 'Kontak' or . = 'Kontak')]</value>
+      <webElementGuid>d68fbf43-af33-4b28-8f3d-2fce2f5cfdd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

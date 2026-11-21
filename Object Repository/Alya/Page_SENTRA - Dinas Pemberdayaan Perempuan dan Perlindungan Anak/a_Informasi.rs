@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Informasi</name>
+   <tag></tag>
+   <elementGuidId>127c2c6d-8889-4c9c-bfe0-a09bd52e83b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '#information']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\#information&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#information' and (text() = 'Informasi' or . = 'Informasi')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Informasi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>02d2478b-4363-4352-b6ea-4e18fe07d6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#information</value>
+      <webElementGuid>4f3acdcc-cec2-4395-b6b4-3eb172cb8d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informasi</value>
+      <webElementGuid>aaf0ef0b-15b3-46dd-9b2b-53db573d0bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fb53254cf0fc117055ece955b8b25d8d</value>
+      <webElementGuid>00de63dd-187a-4e88-9588-529e03a94f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '#information']</value>
+      <webElementGuid>3bc60afa-5b9f-4f95-a8d5-2261e34063f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '#information']</value>
+      <webElementGuid>2127a1ce-1908-4632-9ae0-edff38287809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#information' and (text() = 'Informasi' or . = 'Informasi')]</value>
+      <webElementGuid>a0fcb68d-9581-4210-b038-46764c116d1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rujuk</name>
+   <tag></tag>
+   <elementGuidId>31175f90-29c9-45a7-86e3-0aa9c2f92ae3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-instansi-soft ') and (@data-nama = 'Alya Namiratuzz')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-instansi-soft[data-nama=&quot;Alya\ Namiratuzz&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#rujuk-form-RKN146729571 >> internal:role=button[name=&quot;Rujuk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c41b5efd-72ba-4da6-b327-313dc6091561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>efba5e25-cb62-418e-be9f-53117ba3fe81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-instansi-soft btn-pill btn-sm rujuk-btn</value>
+      <webElementGuid>04a694ef-0a01-40cf-bcf5-6fc3d1ac6a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>RKN146729571</value>
+      <webElementGuid>6ac74595-49b0-47d6-a395-8b8109636649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nama</name>
+      <type>Main</type>
+      <value>Alya Namiratuzz</value>
+      <webElementGuid>20ddb7e9-bc7a-4ad7-9c18-76a6db37d573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        Rujuk
+                                                    </value>
+      <webElementGuid>8445edc7-8203-4e8b-b21b-f35b227a4d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1c8d9800909bd7d763e7e4028e495ada</value>
+      <webElementGuid>5268ebd6-d8b6-48ad-8ba7-6c757ee9aea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-instansi-soft ') and (@data-nama = 'Alya Namiratuzz')]</value>
+      <webElementGuid>3e2c21e7-66dc-47a3-8826-39b7451e7343</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-instansi-soft ') and (@data-nama = 'Alya Namiratuzz')]</value>
+      <webElementGuid>8dab6651-ec23-4aed-9103-aef3056ebc25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                                        Rujuk
+                                                    ' or . = '
+                                                        Rujuk
+                                                    ')]</value>
+      <webElementGuid>41881eac-9768-4d14-ac03-4b9515ec350d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

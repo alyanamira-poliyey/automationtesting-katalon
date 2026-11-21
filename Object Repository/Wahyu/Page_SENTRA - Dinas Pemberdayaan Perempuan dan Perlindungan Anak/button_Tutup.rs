@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tutup</name>
+   <tag></tag>
+   <elementGuidId>8beccb93-c479-4158-961b-de3d7066a790</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'infoModalLabel5']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-success ') and (@data-bs-dismiss = 'modal')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;infoModalLabel5&quot;] .btn-success[data-bs-dismiss=&quot;modal&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Tutup&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>955d45c3-3c5b-421c-91a4-2936ae1429ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>732aec57-6356-40c0-a6c3-d6c0d9129653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>2becc0de-baaf-41bc-94ae-5d42e68e9488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>a5d380d8-c63c-4d02-ba62-d80408fbf571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Tutup
+                                </value>
+      <webElementGuid>5a598a84-5fa6-4918-883b-c1324f5fe7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-52b8f26e354a6ee0e766f5ca5a99d10a</value>
+      <webElementGuid>661ea37d-0c31-49d8-9f61-5c512dee4121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'infoModalLabel5']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-success ') and (@data-bs-dismiss = 'modal')]</value>
+      <webElementGuid>47e272fc-a4d1-41e8-a3f2-367757c75f8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'infoModalLabel5']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-success ') and (@data-bs-dismiss = 'modal')]</value>
+      <webElementGuid>b818defe-6e2b-4f61-b227-29c21ef1968c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                    Tutup
+                                ' or . = '
+                                    Tutup
+                                ')]</value>
+      <webElementGuid>47abaa45-dbbc-4b00-985f-4b7929ce13c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
