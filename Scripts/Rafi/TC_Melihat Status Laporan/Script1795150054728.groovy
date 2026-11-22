@@ -32,15 +32,15 @@ WebUI.click(findTestObject('Novia/Page_SENTRA - Login/input_Show Password'))
 
 WebUI.click(findTestObject('Novia/Page_SENTRA - Login/button_Login'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/span_Laporan'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/span_Laporan'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Diproses'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Diproses'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Selesai'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Selesai'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/span_Rekapan'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/span_Rekapan'))
 
-WebUI.selectOptionByValue(findTestObject('Page_Panel Instansi - SENTRA/select_Status'), 'selesai', false)
+WebUI.selectOptionByValue(findTestObject('Z lain/Page_Panel Instansi - SENTRA/select_Status'), 'selesai', false)
 
-WebUI.selectOptionByValue(findTestObject('Page_Panel Instansi - SENTRA/select_Status'), 'dirujuk', false)
+WebUI.selectOptionByValue(findTestObject('Z lain/Page_Panel Instansi - SENTRA/select_Status'), 'dirujuk', false)
 

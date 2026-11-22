@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Novia/Page_SENTRA - Login/input_Show Password'))
 
 WebUI.click(findTestObject('Novia/Page_SENTRA - Login/button_Login'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/span_Rekapan'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/span_Rekapan'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/button_Export Excel'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/button_Export Excel'))
 

@@ -36,33 +36,33 @@ WebUI.setText(findTestObject('Novia/Page_SENTRA - Login/input_passwordInput_1'),
 
 WebUI.sendKeys(findTestObject('Novia/Page_SENTRA - Login/input_passwordInput_1'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Laporan'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Laporan'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Diproses'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Diproses'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/button_Proses'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/button_Proses'))
 
-WebUI.selectOptionByValue(findTestObject('Page_Edit Laporan - SENTRA/select_Kategori Laporan'), 'Penelantaran', false)
+WebUI.selectOptionByValue(findTestObject('Z lain/Page_Edit Laporan - SENTRA/select_Kategori Laporan'), 'Penelantaran', false)
 
-WebUI.click(findTestObject('Page_Edit Laporan - SENTRA/button_Simpan Perubahan'))
+WebUI.click(findTestObject('Z lain/Page_Edit Laporan - SENTRA/button_Simpan Perubahan'))
 
-WebUI.setText(findTestObject('Page_Edit Laporan - SENTRA/input_Hubungan dengan Korban'), 'teman')
+WebUI.setText(findTestObject('Z lain/Page_Edit Laporan - SENTRA/input_Hubungan dengan Korban'), 'teman')
 
-WebUI.setText(findTestObject('Page_Edit Laporan - SENTRA/input_Tempat Lahir'), 'nganjuk')
+WebUI.setText(findTestObject('Z lain/Page_Edit Laporan - SENTRA/input_Tempat Lahir'), 'nganjuk')
 
-WebUI.setText(findTestObject('Page_Edit Laporan - SENTRA/input_Umur'), '-46')
+WebUI.setText(findTestObject('Z lain/Page_Edit Laporan - SENTRA/input_Umur'), '-46')
 
-WebUI.click(findTestObject('Page_Edit Laporan - SENTRA/button_Simpan Perubahan'))
+WebUI.click(findTestObject('Z lain/Page_Edit Laporan - SENTRA/button_Simpan Perubahan'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Selesai'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Selesai'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Diproses_1'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Diproses_1'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/a_Selesai'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/a_Selesai'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/button_Preview'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/button_Preview'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/div_Daftar Laporan'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/div_Daftar Laporan'))
 
-WebUI.click(findTestObject('Page_Panel Instansi - SENTRA/div_Laporan Belum Selesai'))
+WebUI.click(findTestObject('Z lain/Page_Panel Instansi - SENTRA/div_Laporan Belum Selesai'))
 
