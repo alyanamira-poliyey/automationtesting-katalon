@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Proses</name>
+   <tag></tag>
+   <elementGuidId>f67259fd-c4bb-4f2a-8738-192b0dac2a09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-instansi-primary ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.odd .btn-instansi-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 Alya Diterima - 21-11-2026 Proses Rujuk Selesai&quot;i] >> internal:attr=[title=&quot;Proses&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d4d9e6a8-7059-45d6-9b0c-99e6de67aa97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c721ed82-ff17-4f26-8ba3-8d0d50f1016f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-instansi-primary btn-pill btn-sm</value>
+      <webElementGuid>3b7ab50b-7b43-48b3-89f8-06cd29469b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Proses</value>
+      <webElementGuid>dc25f32d-b997-45f2-bc4f-f3a989dfa87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proses</value>
+      <webElementGuid>9c50a56c-dc59-498d-83b0-b64c10889fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a0216fb999abaa347e35a1c8207e4876</value>
+      <webElementGuid>42323a0a-b5bc-44d9-9c79-8dc40d118254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-instansi-primary ')]</value>
+      <webElementGuid>7af324f7-73d1-4d09-8561-85bf58b0bd4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-instansi-primary ')]</value>
+      <webElementGuid>7c34774c-5063-4735-add4-ce11119e25d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @title = 'Proses' and (text() = 'Proses' or . = 'Proses')]</value>
+      <webElementGuid>9fda09af-c7b6-43b5-9867-ffdbc8dc9548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

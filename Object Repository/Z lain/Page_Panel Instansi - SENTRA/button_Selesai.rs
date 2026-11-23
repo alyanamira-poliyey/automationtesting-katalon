@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selesai</name>
+   <tag></tag>
+   <elementGuidId>5bf193e0-26d7-4739-8107-3e1e1b8d8428</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-hijau.selesai-btn[data-nama=&quot;Ilham&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '
+                                                    Selesai
+                                                ' or . = '
+                                                    Selesai
+                                                ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-hijau ') and contains(concat(' ', normalize-space(@class), ' '), ' selesai-btn ') and (@data-nama = 'Ilham')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#selesai-form-RKN167944533 >> internal:role=button[name=&quot;Selesai&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa2294c9-4f9d-4f90-a423-a226c84e63ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1ea95d3c-ec5a-4159-a7e5-22efd4daa6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-hijau btn-pill btn-sm selesai-btn</value>
+      <webElementGuid>b8b50613-0eb5-4ede-b1c1-b9e66f747451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>RKN167944533</value>
+      <webElementGuid>4482310c-e309-4ef5-b208-c371d246cd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nama</name>
+      <type>Main</type>
+      <value>Ilham</value>
+      <webElementGuid>9cc48c6d-9f57-4981-aeba-5e30b5180030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Selesai
+                                                </value>
+      <webElementGuid>0dd83fd6-d817-4120-b68c-383973b2f63b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c4f74b7391be07854cccebaac39deda8</value>
+      <webElementGuid>f78203c1-7b54-43ea-b978-46f32c5c0d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-hijau ') and contains(concat(' ', normalize-space(@class), ' '), ' selesai-btn ') and (@data-nama = 'Ilham')]</value>
+      <webElementGuid>e87d22bc-2354-4d8c-8359-e2fb12fd45cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-hijau ') and contains(concat(' ', normalize-space(@class), ' '), ' selesai-btn ') and (@data-nama = 'Ilham')]</value>
+      <webElementGuid>399f8d9d-6b24-4325-b399-ed41531fbae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                                    Selesai
+                                                ' or . = '
+                                                    Selesai
+                                                ')]</value>
+      <webElementGuid>fd2e3e7d-4b33-4dd7-a176-b0e00c296190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-hijau ')]</value>
+      <webElementGuid>66ea46a0-12af-414d-8bef-726f4e0bd624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-hijau ') and (@data-nama = 'Alya')]</value>
+      <webElementGuid>e4b332c9-209e-4a30-8e6d-ab47bbb0d09d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

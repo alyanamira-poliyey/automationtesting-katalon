@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Data tidak ditemukan</name>
+   <tag></tag>
+   <elementGuidId>e4fbb795-361d-484a-a924-85923b46e05b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dataTables_empty ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.dataTables_empty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Data tidak ditemukan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c023114b-b0b4-4100-a79b-9f10f5b98574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>88293b43-b736-429f-af55-e10e765ddbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>35856524-901d-42c4-adf9-ca7fadedeaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dataTables_empty</value>
+      <webElementGuid>0d12fabd-8dc1-48dd-a367-08ee5ab0fd44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data tidak ditemukan</value>
+      <webElementGuid>fa0db6b3-9fac-4120-8fda-3222f2730d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ff358c7afe56a805dfca821b6ead651a</value>
+      <webElementGuid>cc609fb3-3732-4889-86b5-9bb1b71536b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dataTables_empty ')]</value>
+      <webElementGuid>66aee7fd-f371-4c85-a9ae-8b63192b8551</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dataTables_empty ')]</value>
+      <webElementGuid>848ef682-c0b7-4e64-b11b-308bdaeafe7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Data tidak ditemukan' or . = 'Data tidak ditemukan')]</value>
+      <webElementGuid>3bb015f5-9c9b-4eef-ad71-ba5e528494ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Hubungan dengan Korban</name>
+   <tag></tag>
+   <elementGuidId>10255dbb-773c-4cba-b8fe-9e2cb94676bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'pelapor_hubungan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pelapor_hubungan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Hubungan dengan Korban&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7b8c61f0-714a-4001-b274-1500cb5709aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>62aab4ac-7278-4f19-8ea8-ff108e9a0a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pelapor_hubungan</value>
+      <webElementGuid>36dedb72-6b94-4207-b564-4d99dd4a95bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pelapor[hubungan]</value>
+      <webElementGuid>78bdcb5b-167c-40ab-b8aa-e274cc630ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>84e7fc7e-49c9-4af3-bb1b-50fef8302734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninvalid</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('Data pelapor wajib diisi')</value>
+      <webElementGuid>c47ba057-6f81-4746-82ff-d8d1b09ca26d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('')</value>
+      <webElementGuid>1cd5c78c-076c-4cc4-962c-ed01ee248ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c22b82e7c0dc04ea7775c691a795a482</value>
+      <webElementGuid>b59905f2-d299-4b27-a1cf-74712d88fe86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'pelapor_hubungan']</value>
+      <webElementGuid>eab37716-7796-4c1b-97d2-83bd51c974bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'pelapor_hubungan']</value>
+      <webElementGuid>e3e7dcd6-b85e-4bd9-9ece-635dca028775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'pelapor_hubungan' and @name = 'pelapor[hubungan]']</value>
+      <webElementGuid>8b8d59fc-7a79-4f26-a06f-b7ab5ca922f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

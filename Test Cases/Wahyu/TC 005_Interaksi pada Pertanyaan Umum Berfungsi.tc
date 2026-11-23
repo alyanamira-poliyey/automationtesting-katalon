@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 005_Interaksi pada Pertanyaan Umum Berfungsi</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E ALYA NAMIRATUZ ZAHRA</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E ALYA NAMIRATUZ ZAHRA</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>f776b997-75ec-493f-921e-d311622243d7</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>f776b997-75ec-493f-921e-d311622243d7</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90f629a2-9fc0-4c62-9536-6fa1c6108361</testCaseGuid>
+</TestCaseEntity>
